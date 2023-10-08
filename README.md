@@ -34,7 +34,7 @@ Predict how much could be the insurance charges for a beneficiary based on the d
 - 	Tuning the model to improve the performance
 
 ### Deployment with Streamlit
-The insurance charges will be deployed using Streamlit, a Python library for creating web applications with ease. The Streamlit application will enable users to interact with the analysis, explore visualizations, and make predictions based on the developed models. Access the deployed application through this link: [Streamlit]
+The insurance charges will be deployed using Streamlit, a Python library for creating web applications with ease. The Streamlit application will enable users to interact with the analysis, explore visualizations, and make predictions based on the developed models. Access the deployed application through this link: [Streamlit](https://projectinsurance-hejxnfgkdvhpimgtffdhlr.streamlit.app)
 
 
 Thank you for visiting this project!
