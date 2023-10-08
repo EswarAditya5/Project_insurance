@@ -1,5 +1,15 @@
 # Project_insurance_charges_prediction
 
+
+### Technology used:
+<div align ='left'>
+<img src ='https://technology.amis.nl/wp-content/uploads/2020/11/image_thumb-27.png', height = "50" alt = 'Jupyter'/><img width='12'/> 
+<img src = 'https://cdn.dribbble.com/users/6569/screenshots/16471177/media/8bbfe7fd594073dc6271d5d852c7381a.png', height = "50" alt = 'Vs code'/><img width = '12'/>
+<img src = 'https://thomasjpfan.github.io/data-umbrella-2020-streamlit-slides/images/streamlit.png', height = "50" alt = 'Streamlit'/><img width = '12'/>
+<img src = 'https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png', height = "50 alt = 'Github'/><img width = '12'/>
+<img src = 'https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/chatgpt-icon.png', height = "50" alt = 'ChatGPT'/><img width = '12'/>
+</div>
+
 ### Abstract:
 HealthyLife Insurance company has gathered the data regarding the customers and wants to analyze it. Different customers have different lifestyles and hence not all can have the same medical expenditures or requirements for health insurance. To better tailor the insurance package to be given to different customers, the company now wants to integrate machine learning into the process and identify the right insurance charges for each customer.
 
