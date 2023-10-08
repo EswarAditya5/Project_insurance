@@ -19,9 +19,9 @@ Predict how much could be the insurance charges for a beneficiary based on the d
 | charges	| Individual medical costs billed by health insurance (target variable) |
 
 ### Scope:
-●	Exploratory data analysis
-●	Data Pre-processing
-●	Tuning the model to improve the performance
+- ●	Exploratory data analysis
+- ●	Data Pre-processing
+- ●	Tuning the model to improve the performance
 
 
 
